@@ -12,7 +12,7 @@
 1. First Object
 2. Second Object
 
-`mkdir hello`
+Make a new directory with `mkdir hello`
 
 ```
 def hello
